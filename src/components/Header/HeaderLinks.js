@@ -128,7 +128,7 @@ export default function HeaderLinks(props) {
           </ListItem>
         ))
       }
-      <ListItem className={classes.listItem}>
+      {/* <ListItem className={classes.listItem}>
         <CustomDropdown
           navDropdown
           hoverColor={dropdownHoverColor}
@@ -154,7 +154,7 @@ export default function HeaderLinks(props) {
             </a>
           ]}
         />
-      </ListItem>
+      </ListItem> */}
       <ListItem className={classes.listItem}>
         <Button
           style={{

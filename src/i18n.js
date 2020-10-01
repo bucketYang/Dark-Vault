@@ -13,18 +13,18 @@ const resources = {
   en: {
     translation: translationEN
   },
-  zh: {
-    translation: translationZH
-  },
-  ja: {
-    translation: translationJA
-  },
-  th: {
-    translation: translationTH
-  },
-  ko: {
-    translation: translationKO
-  }
+  // zh: {
+  //   translation: translationZH
+  // },
+  // ja: {
+  //   translation: translationJA
+  // },
+  // th: {
+  //   translation: translationTH
+  // },
+  // ko: {
+  //   translation: translationKO
+  // }
 };
 
 i18n
