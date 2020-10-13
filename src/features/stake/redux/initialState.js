@@ -35,7 +35,7 @@ const pools = [
 		earnContractAbi: governanceABI,
 	},
 	{
-		name: 'DARK',
+		name: 'DARK-ETH',
 		token: 'dark',
 		tokenDecimals: 18,
 		tokenAddress: '0x3108ccfd96816f9e663baa0e8c5951d229e8c6da',
